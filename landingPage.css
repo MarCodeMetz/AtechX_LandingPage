@@ -1,12 +1,16 @@
 body {
 	font-family: 'Teko', sans-serif;
-	text-align: center;		
+	text-align: center;			
 }
 
 h1	{
 	font-size: 100px;
 	color: #fefdfd;
 	text-shadow: 5px 2px #929292;
+}
+
+p {
+	font-size: 2rem;
 }
 
 .container {
