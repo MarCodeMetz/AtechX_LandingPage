@@ -14,26 +14,24 @@ p {
 }
 
 .container {
-	width: 100%;
+	width: 100%;	
 }
 
 #about, #careers, #team, {
 	padding: 2.5rem;
-	margin-top: 2.5rem;
 }
 
 #experience, #succes {
 	background: #929292;
 	padding: 2.5rem;
-	margin-top: 2.5rem;	
 }
 
-#contact {
-	background: #010c56;
+#team, #contact {
+	background: #123845;
 	color: #fefdfd;
 	padding: 2.5rem;
-	margin-top: 2.5rem;
 }
+
 .icon {
 	font-size: 7rem;
 	color: #010c56;
