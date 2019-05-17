@@ -1,15 +1,23 @@
 body {
 	font-family: 'Teko', sans-serif;
-	text-align: center;			
+	text-align: center;				
 }
 
 h1	{
-	font-size: 100px;
+	font-size: 1000%;
 	color: #fefdfd;
 	text-shadow: 5px 2px #929292;
 }
 
+h2, h3 {
+	font-size: 5rem;
+}
+
 p {
+	font-size: 3rem;
+}
+
+.form-control {
 	font-size: 2rem;
 }
 
@@ -33,7 +41,7 @@ p {
 }
 
 .icon {
-	font-size: 7rem;
+	font-size: 8rem;
 	color: #010c56;
 }
 
@@ -80,8 +88,11 @@ img {
 
 footer	{
 	color: #FEFDFD;
-	text-align: center;	
-	font-size: 2rem;
+	text-align: center;		
 	padding: 2.5rem;
 	background: #222222;
+}
+
+#footer {
+	font-size: 2rem;
 }
