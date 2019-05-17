@@ -25,19 +25,19 @@ p {
 	width: 100%;	
 }
 
-#about, #careers, #team, {
-	padding: 2.5rem;
+#about, #careers, #team {
+	padding: 2.5rem 10rem;
 }
 
 #experience, #succes {
 	background: #929292;
-	padding: 2.5rem;
+	padding: 2.5rem 10rem;
 }
 
 #team, #contact {
 	background: #123845;
 	color: #fefdfd;
-	padding: 2.5rem;
+	padding: 2.5rem 10rem;
 }
 
 .icon {
